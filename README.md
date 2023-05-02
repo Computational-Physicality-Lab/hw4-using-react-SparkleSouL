@@ -4,7 +4,7 @@
 
 # 網站連結
 
-> https://graceful-parfait-e79644.netlify.app
+> https://main--earnest-dango-2802da.netlify.app/
 
 # 加分
 
